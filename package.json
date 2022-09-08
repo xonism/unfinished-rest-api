@@ -1,0 +1,30 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Building a REST API with Node.js, Express & MongoDB",
+  "main": "dist/server.js",
+  "type": "module",
+  "scripts": {
+    "devStart": "nodemon dist/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xonism/rest-api.git"
+  },
+  "author": "xonism",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xonism/rest-api/issues"
+  },
+  "homepage": "https://github.com/xonism/rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16",
+    "typescript": "^4.7.4"
+  }
+}
