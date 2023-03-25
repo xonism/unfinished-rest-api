@@ -4,4 +4,4 @@
 
 `npm run devStart`
 
-Won't be finished because I came up with a more complex REST API idea which I'm currently working on.
+Won't be finished because I'm working on building a Java REST API with MySQL & Hibernate.
